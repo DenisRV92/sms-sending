@@ -13,4 +13,8 @@
 
 7. php artisan migrate --seed
 
-8. php artisan serve
+8. php artisan schedule:work
+
+9. php artisan queue:work
+
+10. php artisan serve
